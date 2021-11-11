@@ -1,0 +1,217 @@
+[
+    {
+        "id": 1,
+        "name": "PHANTOM- Gold",
+        "price": "199.99",
+        "prevPrice": "99.99",
+        "details": "StoleBox shoes provides an ideal balance of style,comfort and culture along with its one of a kind design.Perfect to Casual and athletic wear.",
+        "description": "StoleBox shoes provides an ideal balance of style,comfort and culture along with its one of a kind design.Perfect to Casual and athletic wear.This unique design will only be available while supplies last, so don't miss out.Each shoe features a breatheable and form-fitting mesh fabric supported by an Ethylene-Vinayl Acetate insole design to cushion evevry step taken.",
+        "image": "https://i.ibb.co/nwG4MKN/shoe1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "PHANTOM- White",
+        "price": "199.99",
+        "prevPrice": "99.99",
+        "details": "StoleBox shoes provides an ideal balance of style,comfort and culture along with its one of a kind design.Perfect to Casual and athletic wear.",
+        "description": "StoleBox shoes provides an ideal balance of style,comfort and culture along with its one of a kind design.Perfect to Casual and athletic wear.This unique design will only be available while supplies last, so don't miss out.Each shoe features a breatheable and form-fitting mesh fabric supported by an Ethylene-Vinayl Acetate insole design to cushion evevry step taken.",
+        "image": "https://i.ibb.co/XymDZm8/shoe2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "PHANTOM- Black",
+        "price": "199.99",
+        "prevPrice": "99.99",
+        "details": "StoleBox shoes provides an ideal balance of style,comfort and culture along with its one of a kind design.Perfect to Casual and athletic wear.",
+        "description": "StoleBox shoes provides an ideal balance of style,comfort and culture along with its one of a kind design.Perfect to Casual and athletic wear.This unique design will only be available while supplies last, so don't miss out.Each shoe features a breatheable and form-fitting mesh fabric supported by an Ethylene-Vinayl Acetate insole design to cushion evevry step taken.",
+        "image": "https://i.ibb.co/Byfw67Q/shoe3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "FLIGHT",
+        "price": "169.99",
+        "prevPrice": "79.99",
+        "details": "StoleBox shoes provides an ideal balance of style,comfort and culture along with its one of a kind design.Perfect to Casual and athletic wear.",
+        "description": "StoleBox shoes provides an ideal balance of style,comfort and culture along with its one of a kind design.Perfect to Casual and athletic wear.This unique design will only be available while supplies last, so don't miss out.Each shoe features a breatheable and form-fitting mesh fabric supported by an Ethylene-Vinayl Acetate insole design to cushion evevry step taken.",
+        "image": "https://i.ibb.co/NLTcLpZ/shoe4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "VERDICT",
+        "price": "159.99",
+        "prevPrice": "79.99",
+        "details": "StoleBox shoes provides an ideal balance of style,comfort and culture along with its one of a kind design.Perfect to Casual and athletic wear.",
+        "description": "StoleBox shoes provides an ideal balance of style,comfort and culture along with its one of a kind design.Perfect to Casual and athletic wear.This unique design will only be available while supplies last, so don't miss out.Each shoe features a breatheable and form-fitting mesh fabric supported by an Ethylene-Vinayl Acetate insole design to cushion evevry step taken.",
+        "image": "https://i.ibb.co/ySqgjN4/shoe5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "SCRIPT- Purple",
+        "price": "179.99",
+        "prevPrice": "89.99",
+        "details": "StoleBox shoes provides an ideal balance of style,comfort and culture along with its one of a kind design.Perfect to Casual and athletic wear.",
+        "description": "StoleBox shoes provides an ideal balance of style,comfort and culture along with its one of a kind design.Perfect to Casual and athletic wear.This unique design will only be available while supplies last, so don't miss out.Each shoe features a breatheable and form-fitting mesh fabric supported by an Ethylene-Vinayl Acetate insole design to cushion evevry step taken.",
+        "image": "https://i.ibb.co/fHvZ6DX/shoe6.jpg"
+    },
+    {
+        "id": 7,
+        "name": "SCRIPT- White",
+        "price": "179.99",
+        "prevPrice": "89.99",
+        "details": "StoleBox shoes provides an ideal balance of style,comfort and culture along with its one of a kind design.Perfect to Casual and athletic wear.",
+        "description": "StoleBox shoes provides an ideal balance of style,comfort and culture along with its one of a kind design.Perfect to Casual and athletic wear.This unique design will only be available while supplies last, so don't miss out.Each shoe features a breatheable and form-fitting mesh fabric supported by an Ethylene-Vinayl Acetate insole design to cushion evevry step taken.",
+        "image": "https://i.ibb.co/dWM2JLZ/shoe7.jpg"
+    },
+    {
+        "id": 8,
+        "name": "SCRIPT- Beige",
+        "price": "189.99",
+        "prevPrice": "89.99",
+        "details": "StoleBox shoes provides an ideal balance of style,comfort and culture along with its one of a kind design.Perfect to Casual and athletic wear.",
+        "description": "StoleBox shoes provides an ideal balance of style,comfort and culture along with its one of a kind design.Perfect to Casual and athletic wear.This unique design will only be available while supplies last, so don't miss out.Each shoe features a breatheable and form-fitting mesh fabric supported by an Ethylene-Vinayl Acetate insole design to cushion evevry step taken.",
+        "image": "https://i.ibb.co/fXRbpvh/shoe8.jpg"
+    },
+    {
+        "id": 9,
+        "name": "ZERO",
+        "price": "159.99",
+        "prevPrice": "79.99",
+        "details": "StoleBox shoes provides an ideal balance of style,comfort and culture along with its one of a kind design.Perfect to Casual and athletic wear.",
+        "description": "StoleBox shoes provides an ideal balance of style,comfort and culture along with its one of a kind design.Perfect to Casual and athletic wear.This unique design will only be available while supplies last, so don't miss out.Each shoe features a breatheable and form-fitting mesh fabric supported by an Ethylene-Vinayl Acetate insole design to cushion evevry step taken.",
+        "image": "https://i.ibb.co/tJtPRjn/shoe9.jpg"
+    },
+    {
+        "id": 10,
+        "name": "REFRACTED",
+        "price": "179.99",
+        "prevPrice": "89.99",
+        "details": "StoleBox shoes provides an ideal balance of style,comfort and culture along with its one of a kind design.Perfect to Casual and athletic wear.",
+        "description": "StoleBox shoes provides an ideal balance of style,comfort and culture along with its one of a kind design.Perfect to Casual and athletic wear.This unique design will only be available while supplies last, so don't miss out.Each shoe features a breatheable and form-fitting mesh fabric supported by an Ethylene-Vinayl Acetate insole design to cushion evevry step taken.",
+        "image": "https://i.ibb.co/fGtTFpv/shoe10.jpg"
+    },
+    {
+        "id": 11,
+        "name": "MOVEMENT- Gray",
+        "price": "199.99",
+        "prevPrice": "99.99",
+        "details": "StoleBox shoes provides an ideal balance of style,comfort and culture along with its one of a kind design.Perfect to Casual and athletic wear.",
+        "description": "StoleBox shoes provides an ideal balance of style,comfort and culture along with its one of a kind design.Perfect to Casual and athletic wear.This unique design will only be available while supplies last, so don't miss out.Each shoe features a breatheable and form-fitting mesh fabric supported by an Ethylene-Vinayl Acetate insole design to cushion evevry step taken.",
+        "image": "https://i.ibb.co/XLTVLP9/shoe11.jpg"
+    },
+    {
+        "id": 12,
+        "name": "MOVEMENT- Blue",
+        "price": "199.99",
+        "prevPrice": "99.99",
+        "details": "StoleBox shoes provides an ideal balance of style,comfort and culture along with its one of a kind design.Perfect to Casual and athletic wear.",
+        "description": "StoleBox shoes provides an ideal balance of style,comfort and culture along with its one of a kind design.Perfect to Casual and athletic wear.This unique design will only be available while supplies last, so don't miss out.Each shoe features a breatheable and form-fitting mesh fabric supported by an Ethylene-Vinayl Acetate insole design to cushion evevry step taken.",
+        "image": "https://i.ibb.co/0GRDxqQ/shoe12.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Wave- Black",
+        "price": "119.99",
+        "details": "StoleBox shoes provides an ideal balance of style,comfort and culture along with its one of a kind design.Perfect to Casual and athletic wear.",
+        "description": "StoleBox shoes provides an ideal balance of style,comfort and culture along with its one of a kind design.Perfect to Casual and athletic wear.This unique design will only be available while supplies last, so don't miss out.Each shoe features a breatheable and form-fitting mesh fabric supported by an Ethylene-Vinayl Acetate insole design to cushion evevry step taken.",
+        "image": "https://i.ibb.co/J23Rh8H/shoe13.jpg"
+    },
+    {
+        "id": 14,
+        "name": "WAVE- White",
+        "price": "119.99",
+        "prevPrice": "53.99",
+        "details": "StoleBox shoes provides an ideal balance of style,comfort and culture along with its one of a kind design.Perfect to Casual and athletic wear.",
+        "description": "StoleBox shoes provides an ideal balance of style,comfort and culture along with its one of a kind design.Perfect to Casual and athletic wear.This unique design will only be available while supplies last, so don't miss out.Each shoe features a breatheable and form-fitting mesh fabric supported by an Ethylene-Vinayl Acetate insole design to cushion evevry step taken.",
+        "image": "https://i.ibb.co/y6tZNPj/shoe14.jpg"
+    },
+    {
+        "id": 15,
+        "name": "WAVE- Gray",
+        "price": "119.99",
+        "prevPrice": "53.99",
+        "details": "StoleBox shoes provides an ideal balance of style,comfort and culture along with its one of a kind design.Perfect to Casual and athletic wear.",
+        "description": "StoleBox shoes provides an ideal balance of style,comfort and culture along with its one of a kind design.Perfect to Casual and athletic wear.This unique design will only be available while supplies last, so don't miss out.Each shoe features a breatheable and form-fitting mesh fabric supported by an Ethylene-Vinayl Acetate insole design to cushion evevry step taken.",
+        "image": "https://i.ibb.co/TcPfS7v/shoe15.jpg"
+    },
+    {
+        "id": 16,
+        "name": "VERM",
+        "price": "159.99",
+        "prevPrice": "74.99",
+        "details": "StoleBox shoes provides an ideal balance of style,comfort and culture along with its one of a kind design.Perfect to Casual and athletic wear.",
+        "description": "StoleBox shoes provides an ideal balance of style,comfort and culture along with its one of a kind design.Perfect to Casual and athletic wear.This unique design will only be available while supplies last, so don't miss out.Each shoe features a breatheable and form-fitting mesh fabric supported by an Ethylene-Vinayl Acetate insole design to cushion evevry step taken.",
+        "image": "https://i.ibb.co/jW7wrp2/shoe17.jpg"
+    },
+    {
+        "id": 17,
+        "name": "SOLEBOX 3YY",
+        "price": "201.99",
+        "prevPrice": "119.99",
+        "details": "StoleBox shoes provides an ideal balance of style,comfort and culture along with its one of a kind design.Perfect to Casual and athletic wear.",
+        "description": "StoleBox shoes provides an ideal balance of style,comfort and culture along with its one of a kind design.Perfect to Casual and athletic wear.This unique design will only be available while supplies last, so don't miss out.Each shoe features a breatheable and form-fitting mesh fabric supported by an Ethylene-Vinayl Acetate insole design to cushion evevry step taken.",
+        "image": "https://i.ibb.co/0Qp34fJ/shoe31.jpg"
+    },
+    {
+        "id": 18,
+        "name": "SOLEBOX OMEGA",
+        "price": "201.99",
+        "prevPrice": "119.99",
+        "details": "StoleBox shoes provides an ideal balance of style,comfort and culture along with its one of a kind design.Perfect to Casual and athletic wear.",
+        "description": "StoleBox shoes provides an ideal balance of style,comfort and culture along with its one of a kind design.Perfect to Casual and athletic wear.This unique design will only be available while supplies last, so don't miss out.Each shoe features a breatheable and form-fitting mesh fabric supported by an Ethylene-Vinayl Acetate insole design to cushion evevry step taken.",
+        "image": "https://i.ibb.co/VJq0cJR/shoe19.jpg"
+    },
+    {
+        "id": 19,
+        "name": "SOLEBOX CRONOS",
+        "price": "189.99",
+        "prevPrice": "109.99",
+        "details": "StoleBox shoes provides an ideal balance of style,comfort and culture along with its one of a kind design.Perfect to Casual and athletic wear.",
+        "description": "StoleBox shoes provides an ideal balance of style,comfort and culture along with its one of a kind design.Perfect to Casual and athletic wear.This unique design will only be available while supplies last, so don't miss out.Each shoe features a breatheable and form-fitting mesh fabric supported by an Ethylene-Vinayl Acetate insole design to cushion evevry step taken.",
+        "image": "https://i.ibb.co/MBZQV6L/shoe20.jpg"
+    },
+    {
+        "id": 20,
+        "name": "SOLEBOX HYDRA",
+        "price": "188.99",
+        "prevPrice": "104.99",
+        "details": "StoleBox shoes provides an ideal balance of style,comfort and culture along with its one of a kind design.Perfect to Casual and athletic wear.",
+        "description": "StoleBox shoes provides an ideal balance of style,comfort and culture along with its one of a kind design.Perfect to Casual and athletic wear.This unique design will only be available while supplies last, so don't miss out.Each shoe features a breatheable and form-fitting mesh fabric supported by an Ethylene-Vinayl Acetate insole design to cushion evevry step taken.",
+        "image": "https://i.ibb.co/XSHCJ82/shoe21.jpg"
+    },
+    {
+        "id": 21,
+        "name": "SOLEBOX ATLAS",
+        "price": "178.99",
+        "prevPrice": "99.99",
+        "details": "StoleBox shoes provides an ideal balance of style,comfort and culture along with its one of a kind design.Perfect to Casual and athletic wear.",
+        "description": "StoleBox shoes provides an ideal balance of style,comfort and culture along with its one of a kind design.Perfect to Casual and athletic wear.This unique design will only be available while supplies last, so don't miss out.Each shoe features a breatheable and form-fitting mesh fabric supported by an Ethylene-Vinayl Acetate insole design to cushion evevry step taken.",
+        "image": "https://i.ibb.co/H75RVpx/shoe22.jpg"
+    },
+    {
+        "id": 22,
+        "name": "STATEMENT- Black",
+        "price": "199.99",
+        "prevPrice": "101.99",
+        "details": "StoleBox shoes provides an ideal balance of style,comfort and culture along with its one of a kind design.Perfect to Casual and athletic wear.",
+        "description": "StoleBox shoes provides an ideal balance of style,comfort and culture along with its one of a kind design.Perfect to Casual and athletic wear.This unique design will only be available while supplies last, so don't miss out.Each shoe features a breatheable and form-fitting mesh fabric supported by an Ethylene-Vinayl Acetate insole design to cushion evevry step taken.",
+        "image": "https://i.ibb.co/3dZW043/shoe28.jpg"
+    },
+    {
+        "id": 23,
+        "name": "STATEMENT- White",
+        "price": "169.99",
+        "prevPrice": "101.99",
+        "details": "StoleBox shoes provides an ideal balance of style,comfort and culture along with its one of a kind design.Perfect to Casual and athletic wear.",
+        "description": "StoleBox shoes provides an ideal balance of style,comfort and culture along with its one of a kind design.Perfect to Casual and athletic wear.This unique design will only be available while supplies last, so don't miss out.Each shoe features a breatheable and form-fitting mesh fabric supported by an Ethylene-Vinayl Acetate insole design to cushion evevry step taken.",
+        "image": "https://i.ibb.co/gyKcdDm/shoe29.jpg"
+    },
+    {
+        "id": 24,
+        "name": "GHOST",
+        "price": "180.99",
+        "prevPrice": "89.99",
+        "details": "StoleBox shoes provides an ideal balance of style,comfort and culture along with its one of a kind design.Perfect to Casual and athletic wear.",
+        "description": "StoleBox shoes provides an ideal balance of style,comfort and culture along with its one of a kind design.Perfect to Casual and athletic wear.This unique design will only be available while supplies last, so don't miss out.Each shoe features a breatheable and form-fitting mesh fabric supported by an Ethylene-Vinayl Acetate insole design to cushion evevry step taken.",
+        "image": "https://i.ibb.co/JjD84t0/shoe27.jpg"
+    }
+]

@@ -1,0 +1,39 @@
+.list{
+    display: flex;
+    margin: auto;
+    text-align: left;
+    width: 70%;
+ }
+ .list li{
+     width:300px;
+     padding: 5px;
+     border: 1px solid lightgrey;
+     font-size: 18px;
+     font-weight: 600;
+     color: rgb(49, 47, 47);
+     
+ }
+ .pr-img{
+     width: 70px;
+ }
+ .titles li{
+     color: orange;
+     font-size: 19px;
+     padding-bottom: 9px ;
+
+ }
+
+ @media  only screen and (max-width:668px) {
+   
+    .list li{
+        width: 140px;
+        font-size: 12px;
+    }
+    .list{
+        width: 100%;
+        margin: auto;
+    }
+    .title{
+        width: 40%;
+    }
+}

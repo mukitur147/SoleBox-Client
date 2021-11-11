@@ -1,0 +1,24 @@
+.review-card{
+    border: none;
+    padding-left: 20px;
+    padding-top: 20px;
+    box-shadow: 1px 1px 25px rgba(211, 211, 211, 0.568);
+    text-align: left;
+}
+.review-card h6{
+    color:orangered;
+}
+.review-card p{
+    font-size: 17px;
+    font-weight: 500;
+    color: rgb(73, 70, 70);
+}
+@media only screen and (max-width:668px) {
+    .review-card p{
+        font-size: 12px;
+    }
+    .review-card h6{
+        font-size: 14px;
+    }
+    
+}

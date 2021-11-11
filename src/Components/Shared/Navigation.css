@@ -1,0 +1,49 @@
+.shop-name{
+    font-size: 48px;
+    font-weight: 600;
+    font-family: 'Mitr', sans-serif;
+   
+}
+.navs a{
+    text-decoration: none;
+    color: rgb(82, 77, 77);
+    margin-right: 25px;
+    font-weight: 600;
+    font-size: 18px;
+}
+.navs a:hover{
+    color: black; 
+}
+.navs{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.navs-button{
+    border: none;
+    font-size: 15px;
+    background-color: rgb(26, 25, 25);
+    color: white;
+    padding: 5px 15px;
+    border-radius: 8px;
+}
+
+
+
+
+@media only screen and (max-width:668px) {
+    .navs a{
+        font-size: 14px;
+        margin-bottom: 8px;
+    }
+    .shop-name{
+        font-size: 25px;
+    }
+    .togg{
+        font-size: 15px;
+        border: none;
+        margin-left: auto;
+        margin-left: 0%;
+    }
+   
+}

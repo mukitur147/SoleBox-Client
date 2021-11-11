@@ -1,0 +1,27 @@
+.contact-button{
+    font-size: 15px;
+    margin-bottom: 10px;
+    border: none;
+    background-color: rgba(0, 0, 0, 0.904);
+    color: rgba(245, 245, 245, 0.966);
+    border-radius: 8px;
+    padding: 5px 60px;
+    font-weight: 500;
+}
+.contact input{
+    width: 50%;
+    margin: auto;
+}
+.text-msg{
+    width: 50%;
+    margin: auto;
+}
+
+@media only screen and (max-width:668px) {
+    .contact input{
+        width: 90%;
+    }
+    .text-msg{
+        width: 90%;
+    }
+}

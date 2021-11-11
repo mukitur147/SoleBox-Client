@@ -1,0 +1,10 @@
+.view-all a{
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+    
+}
+.view-all{
+    text-align: right;
+    margin-top: 10px;
+}

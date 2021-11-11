@@ -1,0 +1,45 @@
+.banner{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    justify-content: center;
+    align-items: center;
+}
+.left-div h1{
+    border-top: 8px solid black;
+    width: 60%;
+    margin: auto;
+    line-height: 120px;
+    font-size: 75px;
+    font-weight: 700;
+    font-family: 'Mitr', sans-serif;
+}
+.custom-button{
+    border: none;
+    padding: 15px 35px;
+    background-color: black;
+    color: rgba(245, 245, 245, 0.918);
+    border-radius: 20px;
+    font-weight: 600;
+}
+.custom-button:hover{
+    background-color:orange;
+    color: black;
+    transition: 0.4s;
+}
+@media only screen and (max-width:668px) {
+    .banner{
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+    .left-div h1{
+       font-size: 22px;
+       line-height:40px;
+       border-top: 4px solid rgba(0, 0, 0, 0.781);
+    }
+    .custom-button{
+       
+    padding: 5px 10px;
+    font-weight: 500;
+    font-size: 12px;
+    }
+}

@@ -1,0 +1,29 @@
+.table-section{
+    width: 80%;
+    margin: auto;
+}
+.table-section h6{
+    font-size: 18px;
+    font-weight: 600;
+    color: rgb(63, 60, 60);
+}
+.table-section h5{
+    font-weight: 700;
+    margin-bottom: 40px;
+    
+}
+
+
+@media only screen and (max-width:668px) {
+    .table-section h6{
+        font-size: 9px;
+        font-weight: 600;
+    }
+    .hidden{
+        display: none;
+    }
+     h2{
+      font-size: 22px;
+    }
+   
+}
