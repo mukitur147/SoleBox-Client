@@ -7,7 +7,7 @@ const ManageProducts = () => {
     const [products,setProducts]=useProducts()
     
     const handleDelete=(key)=>{
-        const url = `http://localhost:5000/products/${key}`;
+        const url = `https://dry-hamlet-68582.herokuapp.com/products/${key}`;
         fetch(url,{
             method:'DELETE'
         })

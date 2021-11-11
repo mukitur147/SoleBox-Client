@@ -9,7 +9,7 @@ const CustomerReviews = () => {
 
     const onSubmit = data =>{
 
-        fetch('http://localhost:5000/reviews',{
+        fetch('https://dry-hamlet-68582.herokuapp.com/reviews',{
             method : 'POST',
             headers:{
                 'content-type':'application/json'

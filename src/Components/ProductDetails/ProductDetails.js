@@ -17,7 +17,7 @@ const ProductDetails = () => {
     const [products,setProducts]=useState([])
     const [singleProduct,setSingleProduct]=useState({})
     useEffect(()=>{
-        fetch('http://localhost:5000/products')
+        fetch('https://dry-hamlet-68582.herokuapp.com/products')
         .then(res=>res.json())
         .then(data=>setProducts(data))
     },[])
@@ -33,7 +33,7 @@ const ProductDetails = () => {
         data.key=singleProduct?.id
         console.log(data)
 
-        fetch('http://localhost:5000/orders',{
+        fetch('https://dry-hamlet-68582.herokuapp.com/orders',{
             method : 'POST',
             headers:{
                 'content-type':'application/json'

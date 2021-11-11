@@ -12,7 +12,7 @@ const MyOrders = () => {
     const [matchedOrder,setMatchedOrder]=useState([]);
 
     useEffect(()=>{
-        fetch('http://localhost:5000/orders')
+        fetch('https://dry-hamlet-68582.herokuapp.com/orders')
         .then(res=>res.json())
         .then(data=>setOrders(data))
     },[]);
@@ -22,7 +22,7 @@ const MyOrders = () => {
     },[orders])
     
     const handleDelete=(key)=>{
-        const url = `http://localhost:5000/orders/${key}`;
+        const url = `https://dry-hamlet-68582.herokuapp.com/orders/${key}`;
         fetch(url,{
             method:'DELETE'
         })

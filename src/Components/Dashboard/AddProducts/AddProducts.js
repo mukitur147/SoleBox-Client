@@ -5,7 +5,7 @@ const AddProducts = () => {
     const { register, handleSubmit,reset } = useForm();
     const onSubmit = data => {
         data.id= 4
-        fetch('http://localhost:5000/products',{
+        fetch('https://dry-hamlet-68582.herokuapp.com/products',{
             method : 'POST',
             headers:{
                 'content-type':'application/json'
