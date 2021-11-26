@@ -15,6 +15,8 @@ Server Link : https://dry-hamlet-68582.herokuapp.com/
 - User  able to see their orders in My Orders Section .
 - Users are able to review .
 - Different routes for admin and users.
+- User can buy products and also able to see orders in my orders route .
+- User can review products .All reviews are shown in testimonial section .
 
 ## Installation
 
